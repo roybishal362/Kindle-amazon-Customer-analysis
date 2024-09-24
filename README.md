@@ -82,7 +82,7 @@ Results
 
 The XGBoost model achieved the highest performance with an F1-score of 0.85 and accuracy of 87%. The most important words influencing sentiment classification were visualized using word clouds and feature importance plots.
 
-Conclusion
+## Conclusion
 This project demonstrates the utility of machine learning and NLP techniques in analyzing customer sentiment from text data. The insights derived from this analysis can help businesses improve products and customer experiences. Future work could involve applying deep learning models (e.g., RNNs or Transformers) to further improve the accuracy of sentiment classification.
 
 
