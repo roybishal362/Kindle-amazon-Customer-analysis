@@ -1,0 +1,10 @@
+numpy 
+pandas 
+matplotlib
+seaborn
+gensim
+NLTK
+stopwords
+scikit-learn
+pickle
+joblib
